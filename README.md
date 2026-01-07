@@ -9,6 +9,6 @@ Step 3: Once you launch it, don't touch anything. If it asks for a username, ent
 
 Step 4: After step 3, the launcher will start and allow you to launch your .GOD games. | 
 
-Step 5: You're done. If you need ISO2GOD, it will be in this "I2G" .txt file.
+Step 5: You're done. If you need ISO2GOD, it will be in this "I2G" .exe file.
 
-thanks u everyone !
+thanks @everyone !
